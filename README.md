@@ -23,9 +23,9 @@ Once you are on the Remix website, create a new file by clicking on the "+" icon
 
 ## Authors
 
-Aayush Tewari
+Prabhav Poddar
 
-taayush1912@gmail.com
+prabhavpoddar15@gmail.com
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
